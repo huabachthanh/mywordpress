@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hua Bach Thanh &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/author/hua-bach-thanh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://huabachthanh.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 18 May 2021 08:09:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Laptop thời đại 4.0</title>
+		<link>https://huabachthanh.github.io/mywordpress/khong-phan-loai/laptop-thoi-dai-4-0/</link>
+					<comments>https://huabachthanh.github.io/mywordpress/khong-phan-loai/laptop-thoi-dai-4-0/#comments</comments>
+		
+		<dc:creator><![CDATA[Hua Bach Thanh]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 08:09:51 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://huabachthanh.github.io/mywordpress/?p=12</guid>
+
+					<description><![CDATA[Hello laptop Máy tính xách tay hay máy vi tính xách tay là một chiếc máy tính cá nhân nhỏ gọn có thể mang xách được. Nó thường có trọng lượng nhẹ, tùy thuộc vào hãng sản xuất và kiểu máy dành cho mỗi đối tượng có mục đích sử dụng khác nhau. 1. Ý [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="2560" height="1440" src="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/Hinhdaidien1-2.jpg" alt="" data-id="19" data-link="https://huabachthanh.github.io/mywordpress/?attachment_id=19" class="wp-image-19"/></figure></li></ul></figure>
+
+
+
+<h2 class="has-text-align-center"><strong>Hello laptop </strong></h2>
+
+
+
+<ul><li>Máy tính xách tay hay máy vi tính xách tay là một chiếc máy tính cá nhân nhỏ gọn có thể mang xách được. Nó thường có trọng lượng nhẹ, tùy thuộc vào hãng sản xuất và kiểu máy dành cho mỗi đối tượng có mục đích sử dụng khác nhau.</li></ul>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:100%">
+<figure class="wp-block-gallery aligncenter columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="512" height="339" src="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/laptop-2.jpg" alt="" data-id="14" class="wp-image-14"/></figure></li></ul></figure>
+
+
+
+<h2><strong>1. Ý nghĩa các thông số trên CPU</strong></h2>
+
+
+
+<ul><li>Name: Tên của chip xử lý – (cụ thể là Intel Core i5 3470)</li><li>Code name: Tên của kiến trúc CPU hay còn gọi là thế hệ của CPU.</li><li>Core Speed: tốc độ của CPU.</li><li>Packpage: Socket của CPU.</li><li>Technology: Công nghệ Transistor, kích thước của Transistor càng nhỏ thì CPU của bạn chạy càng mát, điều này càng tốt cho máy tính.</li><li>Core Voltage: là điện áp cho nhân của CHIP, các dòng chip được thiết kế có khả năng tự điều chỉnh xung nhịp và điện áp tiêu thụ để tiết kiệm điện năng tiêu thụ.</li><li>Specification: Tên đầy đủ của bộ vi xử lý CPU của máy tính đang dùng</li></ul>
+</div>
+</div>
+
+
+
+<div class="wp-block-cover has-background-dim"><img loading="lazy" width="700" height="700" class="wp-block-cover__image-background wp-image-15" alt="" src="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/laptop-3.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<ul><li>l<strong>aptop DEll</strong></li></ul>
+</div></div>
+
+
+
+<ul><li>Stepping: Thông số này được đánh giá là khá quan trọng, nó thể hiện thông số là các đợt chip được giới thiệu trên thị trường.</li><li>Revision: Là thông tin của phiên bản, cũng tương tự như ở phần Stepping.</li><li>Instructions: Các tập lệnh để Chip xử lý.</li><li>Core Speed: Xung nhịp của vi xử lý CPU, xung nhịp này dao động thường xuyên để tiết kiệm điện năng.</li><li>Level 2: Thông số về bộ nhớ đệm, yếu tố này càng cao thì CPU càng xử lý dữ liệu trơn tru hơn.</li><li>Cores và Threads: Số nhân và số luồng của bộ vi xử lý CPU. Thông thường sẽ là: CPU 2 nhân, CPU 4 nhân, CPU 6 nhân…</li></ul>
+
+
+
+<h2><strong>2. Ý nghĩa các thông số trên Mainboard</strong></h2>
+
+
+
+<ul><li>Tiếp tục việc tiến hành cách đọc thông số máy tính, bạn cần tìm hiểu ý nghĩa các thông số trên Mainboard, cụ thể như sau:</li><li>Manufacturer: Đây là thông tin về tên nhà sản xuất ra mainboard</li><li>Model: là model của bộ phận mainboard. Đây là một trong những thông tin vô cùng quan trọng, nó có ý nghĩa lớn trong quá trình tìm kiếm driver. Ô tiếp theo 1.0 là thông tin về phiên bản, thông số này càng cao thì càng tốt.</li><li>Chipset: Thông tin về chipset của main</li><li>BIOS: Hiển thị cho chúng ta biết được các thông tin về hãng sản xuất BIOS, ngày tháng sản xuất và Version của BIOS.</li><li>Graphic Interface: Thể hiện thông tin về khe cắm card đồ họa trên bộ phận mainboard.</li><li>Width: Là độ rộng của băng thông.</li></ul>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="700" height="350" src="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/mainboard-4.jpg" alt="" data-id="16" data-link="https://huabachthanh.github.io/mywordpress/?attachment_id=16" class="wp-image-16"/></figure></li></ul></figure>
+
+
+
+<h2><strong>3. Ý nghĩa các thông số trên RAM</strong></h2>
+
+
+
+<ul><li>Thông số laptop trên RAM cho chúng ta biết những điều sau:</li><li>Type: Hiển thị đời RAM, loại RAM đang sử dụng trên máy tính của bạn. Hiện nay trên thị trường có các &nbsp;loại RAM như DDR, DDR2, DDR3…</li><li>Size: Là dung lượng bộ nhớ RAM đang sử dụng trên máy tính của bạn.</li><li>Channel: Nếu hiển thị là Single tức là máy tính bạn sử dụng đang gắn 1 thanh RAM hoặc main không hỗ trợ chế độ chạy 2 RAM cùng lúc. Nếu hiện lên là Dual nghĩa là máy tính bạn đang dùng đang gắn 2 hoặc nhiều thanh RAM, và bộ nhớ RAM đang chạy ở chế độ kênh đôi, điều này mang đến tốc độ nhanh hơn.</li></ul>
+
+
+
+<h2><strong>4. Ý nghĩa thông số SPD (số khe cắm RAM)</strong></h2>
+
+
+
+<ul><li>Việc đọc thông số máy tính còn ở trên số SPD, cụ thể là:</li><li>Slot#2: có nghĩa là thanh RAM đang cắm ở khe thứ 2. Khi nhấp chọn mũi tên thả xuống sẽ hiển thị số lượng khe cắm RAM. Thông thường máy tính hiện nay sẽ được trang bị 2 hoặc 4 khe cắm Ram.</li><li>DDR3: Tức là kiểu Ram, loại Ram, hiện nay có các kiểu như DDR2, DDR33333..</li><li>Module Size: Dung lượng RAM ở khe cắm đang xem. Đơn vị được sử dụng là MB (1GB = 1024MB).</li><li>Max Bandwidth: Đây là thông số về bus RAM. Bạn chỉ cần lấy phần xung nhịp nằm trong dấu ngoặc đơn nhân với 2, chúng ta sẽ có được bus của RAM hiện tại.</li><li>Manufacturer: Tên hãng sản xuất.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="700" height="400" src="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/laptop-5.jpg" alt="" class="wp-image-17"/></figure>
+
+
+
+<h2><strong>5. Graphics – Thông tin card đồ họa với CPU-Z</strong></h2>
+
+
+
+<ul><li>Cách đọc thông số laptop trên Graphics – Thông tin card đồ họa với CPU-Z:</li><li>Display Device Selection: Nếu có nhiều card màn hình, phần này sẽ sáng lên và bạn chọn card tương ứng. Nếu chỉ có 1 card, phần này sẽ mờ đi như trên hình.</li><li>Name: Tên của hãng sản xuất chip đồ họa.</li><li>Code name: Tên của chip đồ họa đang chạy trên thiết bị máy tính.</li><li>Size: Dung lượng của card đồ họa.</li><li>Technology: thông số này càng nhỏ càng tốt.</li><li>Type: Kiểu xử lý: 64-bit, 128-bit, 256-bit. Thông số này càng cao thì card càng cao cấp và khả năng xử lý đồ họa tốt hơn.</li><li>Trên đây là cách đọc cấu hình laptop cũng như ý nghĩa các thông số của máy tính mà chúng tôi muốn chia sẻ đến bạn. Hy vọng với những thông tin này bạn đã hiểu hơn về thiết bị máy tính của mình.</li></ul>
+
+
+
+<p><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>video:</p>
+<div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-12-1" width="640" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/video-1619926975.mp4?_=1" /><a href="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/video-1619926975.mp4">https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/video-1619926975.mp4</a></video></div></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huabachthanh.github.io/mywordpress/khong-phan-loai/laptop-thoi-dai-4-0/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		<enclosure url="https://huabachthanh.github.io/mywordpress/wp-content/uploads/2021/05/video-1619926975.mp4" length="6595641" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
